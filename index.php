@@ -7,7 +7,43 @@
     <title>Document</title>
 </head>
 <body bgcolor='aqua'>
-    <form action="index.php" method="post">
-        <input type="submit">
+    <h1>ENVIRONMENTAL QUIZ</h1>
+
+<form action="process.php" method="post">
+    
+<ol>
+     <li>
+         <h3> What is my name<h3>
+             <div>
+             <input type="radio" name='firstAnswer' value='A' />
+            </div>
+                 
+
+    </li>
+
+
+
+</ol>
+
+
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </body>
 </html>
