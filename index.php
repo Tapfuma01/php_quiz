@@ -8,6 +8,9 @@
 </head>
 <body bgcolor='aqua'>
     <h1>ENVIRONMENTAL QUIZ</h1>
+    <br/>
+    <br/>
+    <br/>
 
 <form action="process.php" method="post">
     
@@ -16,11 +19,27 @@
          <h3> What is my name<h3>
              <div>
              <input type="radio" name='firstAnswer' value='A' />
+             <label for='firstAnswerA'>a)Tanaka</label>
+            </div>
+
+            <div>
+             <input type="radio" name='firstAnswer' value='B' />
+             <label for='firstAnswerB'>b)Tawnda</label>
+            </div>
+
+            <div>
+             <input type="radio" name='firstAnswer' value='C' />
+             <label for='firstAnswerC'>c)Tapfuma</label>
+            </div>
+
+            <div>
+             <input type="radio" name='firstAnswer' value='D' />
+             <label for='firstAnswerD'>d)Tafara</label>
             </div>
                  
 
     </li>
-
+ 
 
 
 </ol>
