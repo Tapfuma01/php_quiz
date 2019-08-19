@@ -12,7 +12,6 @@
   <div class="hero-text">
     <h1 style="font-size:35px">Enviromental QUIZ</h1>
     
-    <button>Hire me</button>
   </div>
 </div>
     <br/>
@@ -23,9 +22,9 @@
     <input type="submit">
     
 <ol>
-     <li>
+     <li class= myborder>
          <h3> What is my name?.<h3>
-             <div>
+             <div >
              <input type="radio" name='firstAnswer' value='A' />
              <label for='firstAnswerA'>a)Tanaka</label>
             </div>
