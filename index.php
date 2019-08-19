@@ -8,7 +8,13 @@
     <title>Document</title>
 </head>
 <body bgcolor='white'>
-    <h1>ENVIRONMENTAL QUIZ</h1>
+<div class="hero-image">
+  <div class="hero-text">
+    <h1 style="font-size:35px">Enviromental QUIZ</h1>
+    
+    <button>Hire me</button>
+  </div>
+</div>
     <br/>
     <br/>
     <br/>

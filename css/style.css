@@ -1,12 +1,25 @@
 body {
-    width: 950px;
-    height: auto;
-    padding: 13px;
-    margin-right: auto;
-    margin-left: auto;
+    margin: 0;
     background-color:black;
-    background-image: url(https://image.freepik.com/free-vector/blue-light-sparkles-background-with-copyspace_1017-20091.jpg);
+
 }
+.hero-image {
+    background-image: url("https://image.freepik.com/free-photo/sunset-view-tropical-pacific-coast-costa-rica_23-2148248850.jpg");
+    background-color: #cccccc;
+    height: 400px;
+    width:100%;
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text {
+    text-align: center;
+    position: fixed-top;
+    top: 5%;
+    color: white;
+  }
 
 h1 {
     color: white;
