@@ -5,7 +5,15 @@ body {
     margin-right: auto;
     margin-left: auto;
     background-color:black;
+    background-image: url(https://image.freepik.com/free-vector/blue-light-sparkles-background-with-copyspace_1017-20091.jpg);
+}
+
+h1 {
+    color: white;
+    text-align: center;
 }
 h3 {
-color:whitesmoke;
+color:white;
+text-align:left;
+margin-left: 20%;
 }
