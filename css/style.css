@@ -1,39 +1,3 @@
-body {
-    margin: 0;
 
-}
-.hero-image {
-    background-image: url("https://image.freepik.com/free-photo/sunset-view-tropical-pacific-coast-costa-rica_23-2148248850.jpg");
-    background-color: #cccccc;
-    height: 400px;
-    width:100%;
-    background-position: auto;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-  }
   
-  .hero-text {
-    text-align: center;
-    position: fixed-top;
-    top: 5%;
-    color: white;
-  }
 
-h1 {
-    color: white;
-    text-align: center;
-}
-h3 {
-color:white;
-text-align:left;
-margin-left: 20%;
-}
-li{
-    margin-left: 20%;
-    margin-left: 20%;
-}
-.myborder{
-    border-style:solid;
-    border-color: #573d55;
-}
