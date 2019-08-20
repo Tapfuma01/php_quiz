@@ -333,6 +333,16 @@
     }
     ?>
 </form>
-
 </body>
+<!-- Footer -->
+<footer class="page-footer font-small elegant-color-dark">
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2019 Copyright:
+    <a href="https://web.facebook.com/eeevibez?ref=bookmarks">tapfDESIGNS.com</a>
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
 </html>

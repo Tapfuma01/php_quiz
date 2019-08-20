@@ -13,7 +13,7 @@ body,
 header,
 .view {
     height: 100%;
-    background-color: rgb(219, 216, 210);
+    background-color: rgba(255, 255, 255, 0.137);
 }
 h1 {
     text-align: center;
