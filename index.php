@@ -157,127 +157,144 @@
             'CorrectAnswer' => 'C'
 		),
 		7 => array(
-            'Question' => '7.',
+            'Question' => '7.Which among the following terms of utmost significance in the dynamics of resource management was coined in the ‘Brundtland Commission Report’?',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => 'Polluter-Pays Principle',
+                'B' => 'Sustainable development',
+                'C' => 'Inclusive Growth',
+                'D' => 'Carrying Capacity'
             ),
             'CorrectAnswer' => 'C'
 		),
 		 8 => array(
-            'Question' => '8.',
+            'Question' => '8.Which of the following is / are correct statements regarding the ‘Cartagena Protocol’ on Biosafety? 1.It is a supplementary treaty to the UNFCCC. 2.It establishes 10 headline targets known as the ‘Aichi Targets’. Select the correct option from the codes given below:',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => 'ONLY 1',
+                'B' => 'ONLY 2',
+                'C' => 'BOTH 1 AND 2',
+                'D' => 'NEITHER 1 OR 2'
             ),
             'CorrectAnswer' => 'C'
 		),
 		9 => array(
-            'Question' => '9. ',
+            'Question' => '9.With which of the following, the Agenda 21’ of Rio Summit, 1992 is related to? ',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => 'Sustainable development',
+                'B' => 'Combating the consequences of population explosion.',
+                'C' => 'Mitigation norms of Green House Gases (GHGs) emission.',
+                'D' => 'Technology transfer mechanism to developing countries for ‘clean-energy’ production.'
             ),
             'CorrectAnswer' => 'C'
 		),
 		10 => array(
-            'Question' => '10. ',
+            'Question' => '10. Which of the following is / are correct statements regarding the Keoladeo National Park(formerly known as the Bharatpur Bird Sanctuary)? 1.It is one of the Ramsar Wetlands of International Importance. 2.It is inscribed in the UNESCO World Heritage list. Select the correct option from the codes given below:',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => 'ONLY 1',
+                'B' => 'ONLY 2',
+                'C' => 'BOTH 1 AND 2',
+                'C' => 'NEITHER 1 NOR 2'
             ),
             'CorrectAnswer' => 'C'
 		),
 		11 => array(
-            'Question' => '11. ',
+            'Question' => '11.  What percentage of land area should remain covered by forest to maintain Ecological balance?',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => '10%',
+                'B' => '5%',
+                'C' => '33%',
+                'D' => 'NONE OF THESE'
             ),
             'CorrectAnswer' => 'C'
 		),
 		12 => array(
-            'Question' => '12. ',
+            'Question' => '12.Full form of CTBT is; ',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => 'Comprehensive Test Ban Treaty.',
+                'B' => 'Comprehensive Test Bank Trust.',
+                'C' => 'Comprehensive Test Bank Trust.',
+                'D' => 'Comprehensive Test Ban Trusty.'
             ),
             'CorrectAnswer' => 'C'
 		),
 		13 => array(
-            'Question' => '13.',
+            'Question' => '13.Full form of BOD is;',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => 'Bactorial Oxygen Demand.',
+                'B' => 'Biological Oxygen Demand.',
+                'C' => 'Biological Oxide Demand.',
+                'D' => 'None of these.'
             ),
             'CorrectAnswer' => 'C'
 		),
 		14 => array(
-            'Question' => '14. ',
+            'Question' => '14. In which among the following places of the world all species of  Lemur are endemic?',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => 'New Caledonia',
+                'B' => 'Galapagos Islands',
+                'C' => 'Madagascar',
+                'D' => 'None of the above'
             ),
             'CorrectAnswer' => 'C'
 		),
 		15 => array(
-            'Question' => '15. ',
+            'Question' => '15. On which date International Day for Biodiversity is observed?',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => 'May, 15',
+                'B' => 'May, 20',
+                'C' => 'May, 22',
+                'D' => 'June, 5'
             ),
             'CorrectAnswer' => 'C'
 		),
 		16 => array(
-            'Question' => '16. ',
+            'Question' => '16.Which among the following country is considered to have the world’s first sustainable bio-fuels economy? ',
             'Answers' => array(
-                'A' => '',
-                'B' => ''
+                'A' => 'India',
+                'B' => 'Brazil',
+                'B' => 'Australia',
+                'B' => 'South Africa'
+
             ),
             'CorrectAnswer' => 'C'
 		),
 		17 => array(
-            'Question' => '17.',
+            'Question' => '17.The use of microorganism metabolism to remove pollutants such as oil spills in the water bodies is known as :',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => 'Biomagnification',
+                'B' => 'Bioremediation',
+                'C' => 'Biomethanation',
+                'D' => 'Bioreduction'
             ),
             'CorrectAnswer' => 'C'
 		),
 		18 => array(
-            'Question' => '18. ',
+            'Question' => '18. The largest number of Tiger Reserves are located in:',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => 'Karnataka',
+                'B' => 'Andhra Pradesh',
+                'C' => ' Madhya Pradesh',
+                'D' => ' West Bengal'
             ),
             'CorrectAnswer' => 'C'
 		),
 		19 => array(
-            'Question' => '19. ',
+            'Question' => '19.The Siberian Crane, an endangered migratory bird is a regular visitor of which of the following national park/bird sanctuaries: ',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => 'Ranganathittu bird sanctuary',
+                'B' => ' Keoladeo national park',
+                'C' => 'Vedanthangal bird sanctuary',
+                'D' => 'Sultanpur bird sanctuary
+                '
             ),
             'CorrectAnswer' => 'C'
 		),
 		20 => array(
-            'Question' => '20. ',
+            'Question' => '20.Under the Motor Vehicles Act, the noise range of horns has been fixed at? ',
             'Answers' => array(
-                'A' => '',
-                'B' => '',
-                'C' => ''
+                'A' => '93-112 dB',
+                'B' => '56-77 dB',
+                'C' => '51-75 dB',
+                'D' => '97-118 dB'
             ),
             'CorrectAnswer' => 'C'
         )
