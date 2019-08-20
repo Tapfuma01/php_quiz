@@ -334,7 +334,7 @@
         <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post" id="quiz">
         <?php foreach ($Questions as $QuestionNo => $Value){ ?>
 
-            <h3><?php echo $Value['Question']; ?></h3>
+            <h4><?php echo $Value['Question']; ?></h4>
             <?php 
                 foreach ($Value['Answers'] as $Letter => $Answer){ 
                 $Label = 'question-'.$QuestionNo.'-answers-'.$Letter;

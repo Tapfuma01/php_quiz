@@ -20,7 +20,7 @@ h1 {
     color: black;
 }
   
-h3 {
+h5 {
     font-size: 10px;
 }
 .img{
@@ -35,3 +35,7 @@ h3 {
     
     .carousel-multi-item-2 .card img {
     border-radius: 2px; }
+    
+    .answers{
+    color: brown
+    }
