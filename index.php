@@ -96,183 +96,188 @@
 
     $Questions = array(
         1 => array(
-            'Question' => '1. CSS stands for',
+            'Question' => '1.Which among the following is known as “Sairandhri Vanam”? ',
             'Answers' => array(
-                'A' => 'Computer Styled Sections',
-                'B' => 'Cascading Style Sheets',
-                'C' => 'Crazy Solid Shapes'
+                'A' => 'Silent Valley National Park',
+                'B' => ' Mudumalai National Park',
+                'C' => 'Periyar National Park',
+                'D' => 'Guindy National Park'
             ),
-            'CorrectAnswer' => 'B'
+            'CorrectAnswer' => 'A'
         ),
          
         2 => array(
-            'Question' => '2. What is the Capital of the Philippines',
+            'Question' => '2. Which among the following is the World’s largest Wetland System?',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => 'Carmarge(France)',
+                'B' => 'Okavango(Botswana)',
+                'C' => 'Everglades (USA)',
+                'D' => 'Pantanal (South America)'
             ),
             'CorrectAnswer' => 'C'
 		),
 		3 => array(
-            'Question' => '3. What is the Capital of the Philippines',
+            'Question' => '3.The Machia Biological Park is located in which state?',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => 'Rajastan',
+                'B' => 'Sikkim',
+                'C' => 'Nagaland',
+                'd' => 'Manipur'
             ),
             'CorrectAnswer' => 'C'
 		),
 		4 => array(
-            'Question' => '4. What is the Capital of the Philippines',
+            'Question' => '4.',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => 'Gaylord Nelson',
+                'B' => 'Norman Myers',
+                'C' => 'John Muir',
+                'D' => ' Julia “Butterfly” Hill'
             ),
             'CorrectAnswer' => 'C'
 		),
 		5 => array(
-            'Question' => '5. What is the Capital of the Philippines',
+            'Question' => '5. All species of ‘Lemur’ are endemic to which among the following places of the world?',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => 'Seychelles Islands',
+                'B' => 'Galapagos Islands',
+                'C' => 'New Caledonia',
+                'D' => 'Madagascar'
             ),
             'CorrectAnswer' => 'C'
 		),
 		6=> array(
-            'Question' => '6. What is the Capital of the Philippines',
+            'Question' => '6.With reference to the Flexible Mechanisms of Kyoto Protocol, which of the following is / are correct statements? 1.Through Clean Development Mechanism(CDM),any Annex I country can invest in emission reduction projects in any other Annex I country as an alternative to reducing emissions domestically. 2.Through Joint Implementation(JI), countries can meet their domestic emission reduction targets by buying greenhouse gas reduction units from (projects in) non Annex I countries to the Kyoto protocol (mostly developing countries). Select the correct option from the codes given below:' ,
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => 'ONLY 1',
+                'B' => 'ONLY 2',
+                'C' => 'BOTH 1 AND 2',
+                'D' => 'NEITHER 1 NOR 2'
             ),
             'CorrectAnswer' => 'C'
 		),
 		7 => array(
-            'Question' => '7. What is the Capital of the Philippines',
+            'Question' => '7.',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		 8 => array(
-            'Question' => '8. What is the Capital of the Philippines',
+            'Question' => '8.',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		9 => array(
-            'Question' => '9. What is the Capital of the Philippines',
+            'Question' => '9. ',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		10 => array(
-            'Question' => '10. What is the Capital of the Philippines',
+            'Question' => '10. ',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		11 => array(
-            'Question' => '11. What is the Capital of the Philippines',
+            'Question' => '11. ',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		12 => array(
-            'Question' => '12. What is the Capital of the Philippines',
+            'Question' => '12. ',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		13 => array(
-            'Question' => '13. What is the Capital of the Philippines',
+            'Question' => '13.',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		14 => array(
-            'Question' => '14. What is the Capital of the Philippines',
+            'Question' => '14. ',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		15 => array(
-            'Question' => '15. What is the Capital of the Philippines',
+            'Question' => '15. ',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		16 => array(
-            'Question' => '16. What is the Capital of the Philippines',
+            'Question' => '16. ',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		17 => array(
-            'Question' => '17. What is the Capital of the Philippines',
+            'Question' => '17.',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		18 => array(
-            'Question' => '18. What is the Capital of the Philippines',
+            'Question' => '18. ',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		19 => array(
-            'Question' => '19. What is the Capital of the Philippines',
+            'Question' => '19. ',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
 		),
 		20 => array(
-            'Question' => '20. What is the Capital of the Philippines',
+            'Question' => '20. ',
             'Answers' => array(
-                'A' => 'Cebu City',
-                'B' => 'Davao City',
-                'C' => 'Manila City'
+                'A' => '',
+                'B' => '',
+                'C' => ''
             ),
             'CorrectAnswer' => 'C'
         )
