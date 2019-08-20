@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    background-color:black;
 
 }
 .hero-image {
@@ -30,7 +29,11 @@ color:white;
 text-align:left;
 margin-left: 20%;
 }
+li{
+    margin-left: 20%;
+    margin-left: 20%;
+}
 .myborder{
-    border-style: groove;
-    border-color: #cccccc;
+    border-style:solid;
+    border-color: #573d55;
 }
