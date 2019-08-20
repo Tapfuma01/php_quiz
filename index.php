@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/style.css">
      <!-- Bootstrap CSS -->
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -17,15 +16,16 @@
     <title>WILDLIFE QUIZ</title>
 </head>
 <body>
-
-    <h1 style="font-size:35px">Enviromental QUIZ</h1>
+    <div>
+    <h1  class="text-dark">Enviromental QUIZ</h1>
+    </div>
     
   </div>
 </div>
     <br/>
     <br/>
     <br/>
-    <div class="myquiz">
+  
     <?php 
 
     $Questions = array(
@@ -258,12 +258,15 @@
             <?php } ?>
 
         <?php } ?>
-        <input type="submit" value="Submit Quiz" />
+        <div class="text-center">
+        <button class="btn btn-rounded btn-success btn-lg">SUBMIT YOUR ANSWERS<i class="fas fa-heart pl-1"></i></button>
+        </div>
+        
         </form>
     <?php 
     }
     ?>
-</div>
+
 
 
 
