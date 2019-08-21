@@ -95,8 +95,10 @@
     <?php 
 
     $Questions = array(
-        1 => array(
-            'Question' => '1.Which among the following is known as “Sairandhri Vanam”? ',
+        
+      1 => array(
+            'Question' => '1.Which among the following is known as “Sairandhri Vanam”?',
+           
             'Answers' => array(
                 'A' => 'Silent Valley National Park',
                 'B' => ' Mudumalai National Park',
@@ -332,6 +334,7 @@
                 }                           echo $results;
     } else {  
     ?>
+    </div>
         <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post" id="quiz">
         <?php foreach ($Questions as $QuestionNo => $Value){ ?>
 
@@ -340,10 +343,10 @@
                 foreach ($Value['Answers'] as $Letter => $Answer){ 
                 $Label = 'question-'.$QuestionNo.'-answers-'.$Letter;
             ?>
-            <div>
+            
                 <input type="radio" name="answers[<?php echo $QuestionNo; ?>]" id="<?php echo $Label; ?>" value="<?php echo $Letter; ?>" />
-                <label for="<?php echo $Label; ?>"><?php echo $Letter; ?>) <?php echo $Answer; ?> </label>
-            </div>
+                
+                <label class="answers" for="<?php echo $Label; ?>"><?php echo $Letter; ?>) <?php echo $Answer; ?> </label>
             <?php } ?>
 
         <?php } ?>
