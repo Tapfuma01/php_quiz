@@ -13,7 +13,7 @@ body,
 header,
 .view {
     height: 100%;
-    background-color: rgba(255, 255, 255, 0.137);
+   
   
 
 }
@@ -23,13 +23,17 @@ h1 {
     font-size: 15rem; 
 }
 h2 {
-    font-size: 4rem bold;
+    font-size: 4rem;
+    font-weight: bold;
     
     
 }
 
 p {
-    font-size: 2rem;
+    font-size: 1rem;
+   
+    font-style: oblique;
+  
 }
 .img{
     width: 970px;
@@ -49,7 +53,10 @@ p {
     font-size: 1rem bold;
     border: 5rem rgba(255, 255, 255, 0.137);
     font-weight: bolder;
-    margin-top: -24px;
+    margin-top: -33px;
+    background-color:#f3f3f3;
+    padding: 10px;
+   
     }
     label{
         margin-left: 12%;
@@ -67,5 +74,7 @@ p {
     .questions{
         margin-left: 10%;
         margin-right: 10%;
-        font-weight: bold;
+        font-weight: bolder;
+        font-size: 1.4rem'
+       
     }
