@@ -17,10 +17,11 @@ header,
   
 
 }
-h1 {
+.heading{
     text-align: center;
     color: #ffffff;
-    font-size: 15rem; 
+    font-size: 10rem; 
+
 }
 h2 {
     font-size: 4rem;
