@@ -170,7 +170,7 @@
             'CorrectAnswer' => 'C'
 		),
 		 8 => array(
-            'Question' => '8. What is the biggest man-made dame in Afica?',
+            'Question' => '8. What is the biggest man-made dame in Africa?',
             'Answers' => array(
                 'A' => 'Kariba Dam',
                 'B' => 'Mazowe Dam',
@@ -195,7 +195,7 @@
                 'A' => 'ONLY 1',
                 'B' => 'ONLY 2',
                 'C' => 'BOTH 1 AND 2',
-                'C' => 'NEITHER 1 NOR 2'
+                'D' => 'NEITHER 1 NOR 2'
             ),
             'CorrectAnswer' => 'C'
 		),
@@ -213,7 +213,7 @@
             'Question' => '12.  Full form of CTBT is; ',
             'Answers' => array(
                 'A' => 'Comprehensive Test Ban Treaty.',
-                'B' => 'Comprehensive Test Bank Trust.',
+                'B' => 'Comprehensive Tes Bank Trust.',
                 'C' => 'Comprehensive Test Bank Trust.',
                 'D' => 'Comprehensive Test Ban Trusty.'
             ),
@@ -254,8 +254,8 @@
             'Answers' => array(
                 'A' => 'India',
                 'B' => 'Brazil',
-                'B' => 'Australia',
-                'B' => 'South Africa'
+                'C' => 'Australia',
+                'D' => 'South Africa'
 
             ),
             'CorrectAnswer' => 'C'
