@@ -23,19 +23,13 @@ h1 {
     font-size: 15rem; 
 }
 h2 {
-    font-size: 5rem bold;
+    font-size: 4rem bold;
     
     
 }
-h3{
-    font-size: 1rem;
-}
-  
-h5 {
-    font-size: 2rem;
-}
+
 p {
-    font-size: 2rem;
+    font-size: 1rem;
 }
 .img{
     width: 970px;
@@ -51,15 +45,15 @@ p {
     border-radius: 2px; }
     
     .answers{
-    color:rebeccapurple;
+    columns: #000000;;
     display: block;
-    font-size: 1rem;
-    border: 5px rgba(255, 255, 255, 0.137)
+    font-size: 1rem bold;
+    border: 5rem rgba(255, 255, 255, 0.137)
     }
     label{
         font-size: 1rem;
         margin-bottom: 2rem;
-        margin-left: 15rem;
+        margin-left: 10%;
         line-break: auto;
         
     }
