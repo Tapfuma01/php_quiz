@@ -319,6 +319,7 @@
             }
 
             echo '<br /><hr>'; 
+           
                                     if ($counter=="") 
                                     { 
                                     $counter='0';
