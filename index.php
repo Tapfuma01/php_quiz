@@ -150,24 +150,24 @@
             'CorrectAnswer' => 'C'
 		),
 		6=> array(
-            'Question' => '6. With reference to the Flexible Mechanisms of Kyoto Protocol, which of the following is / are correct statements? 1.Through Clean Development Mechanism(CDM),any Annex I country can invest in emission reduction projects in any other Annex I country as an alternative to reducing emissions domestically. 2.Through Joint Implementation(JI), countries can meet their domestic emission reduction targets by buying greenhouse gas reduction units from (projects in) non Annex I countries to the Kyoto protocol (mostly developing countries). Select the correct option from the codes given below:' ,
+            'Question' => '6.What is the name of the biggest tree in Africa' ,
             'Answers' => array(
-                'A' => 'ONLY 1',
-                'B' => 'ONLY 2',
-                'C' => 'BOTH 1 AND 2',
-                'D' => 'NEITHER 1 NOR 2'
+                'A' => 'Pine',
+                'B' => 'Coconut',
+                'C' => 'Banana',
+                'D' => 'Baobab'
             ),
-            'CorrectAnswer' => 'C'
+            'CorrectAnswer' => 'D'
 		),
 		7 => array(
-            'Question' => '7. Which among the following terms of utmost significance in the dynamics of resource management was coined in the ‘Brundtland Commission Report’?',
+            'Question' => '7. Which is the longest river in the world?',
             'Answers' => array(
-                'A' => 'Polluter-Pays Principle',
-                'B' => 'Sustainable development',
-                'C' => 'Inclusive Growth',
-                'D' => 'Carrying Capacity'
+                'A' => 'Nile',
+                'B' => 'Missisipi',
+                'C' => 'Save',
+                'D' => 'London'
             ),
-            'CorrectAnswer' => 'C'
+            'CorrectAnswer' => 'B'
 		),
 		 8 => array(
             'Question' => '8. What is the biggest man-made dame in Africa?',
@@ -190,14 +190,14 @@
             'CorrectAnswer' => 'C'
 		),
 		10 => array(
-            'Question' => '10. Which of the following is / are correct statements regarding the Keoladeo National Park(formerly known as the Bharatpur Bird Sanctuary)? 1.It is one of the Ramsar Wetlands of International Importance. 2.It is inscribed in the UNESCO World Heritage list. Select the correct option from the codes given below:',
+            'Question' => '10. What time does a bat feed',
             'Answers' => array(
-                'A' => 'ONLY 1',
-                'B' => 'ONLY 2',
-                'C' => 'BOTH 1 AND 2',
-                'D' => 'NEITHER 1 NOR 2'
+                'A' => 'Early morning',
+                'B' => 'Afternoon',
+                'C' => 'At sunset',
+                'D' => 'During the night'
             ),
-            'CorrectAnswer' => 'C'
+            'CorrectAnswer' => 'D'
 		),
 		11 => array(
             'Question' => '11.  What percentage of land area should remain covered by forest to maintain Ecological balance?',
