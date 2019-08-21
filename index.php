@@ -322,11 +322,11 @@
                                     if ($counter=="") 
                                     { 
                                     $counter='0';
-                                    $results = "Your score: $counter/2"; 
+                                    $results = "Your score: $counter/20"; 
                                     }
                                     else 
                                     { 
-                                    $results = "Your score: $counter/2"; 
+                                    $results = "Your score: $counter/20"; 
                                     }
                 }                           echo $results;
     } else {  
