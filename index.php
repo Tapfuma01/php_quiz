@@ -130,12 +130,12 @@
             'CorrectAnswer' => 'C'
 		),
 		4 => array(
-            'Question' => '4.',
+            'Question' => '4.What is the name of a young lion?',
             'Answers' => array(
-                'A' => 'Gaylord Nelson',
-                'B' => 'Norman Myers',
-                'C' => 'John Muir',
-                'D' => ' Julia “Butterfly” Hill'
+                'A' => 'cub',
+                'B' => 'kitten',
+                'C' => 'calf',
+                'D' => ' lioness'
             ),
             'CorrectAnswer' => 'C'
 		),
@@ -170,12 +170,12 @@
             'CorrectAnswer' => 'C'
 		),
 		 8 => array(
-            'Question' => '8.Which of the following is / are correct statements regarding the ‘Cartagena Protocol’ on Biosafety? 1.It is a supplementary treaty to the UNFCCC. 2.It establishes 10 headline targets known as the ‘Aichi Targets’. Select the correct option from the codes given below:',
+            'Question' => '8.What is the biggest man-made dame in Afica?',
             'Answers' => array(
-                'A' => 'ONLY 1',
-                'B' => 'ONLY 2',
-                'C' => 'BOTH 1 AND 2',
-                'D' => 'NEITHER 1 OR 2'
+                'A' => 'Kariba Dam',
+                'B' => 'Mazowe Dam',
+                'C' => 'Buffelsrivier Dam',
+                'D' => 'Calueque Dam'
             ),
             'CorrectAnswer' => 'C'
 		),
