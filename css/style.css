@@ -20,7 +20,8 @@ header,
 .heading{
     text-align: center;
     color: #ffffff;
-    font-size: 10rem; 
+    font-size: 6rem; 
+    position: relative;
 
 }
 h2 {
