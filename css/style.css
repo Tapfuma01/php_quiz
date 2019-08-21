@@ -29,7 +29,7 @@ h2 {
 }
 
 p {
-    font-size: 1rem;
+    font-size: 2rem;
 }
 .img{
     width: 970px;
@@ -49,16 +49,11 @@ p {
     font-size: 1rem bold;
     border: 5rem rgba(255, 255, 255, 0.137);
     font-weight: bolder;
-    
-    
+    margin-top: -24px;
     }
     label{
-        font-size: 1rem;
-        margin-bottom: 2rem;
-        margin-left: 10%;
-        
-        
-        
+        margin-left: 12%;
+        margin-right: 12%;   
     }
 
     .container{
@@ -71,5 +66,6 @@ p {
     }
     .questions{
         margin-left: 10%;
-        font-weight: bolder;
+        margin-right: 10%;
+        font-weight: bold;
     }
