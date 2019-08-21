@@ -61,7 +61,8 @@
             <div class="container">
                 <div class="white-text text-center wow fadeInUp">
                     <h1>Enviromental QUIZ </h1>
-                    <h5>Show Us Your Knowkedge About The Environment</h5>
+                    <br>
+                    <br>
                     <br>
                     <p>SaVe ThE WoRLD</p>
                 </div>
