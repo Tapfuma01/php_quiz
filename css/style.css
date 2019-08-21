@@ -45,19 +45,31 @@ p {
     border-radius: 2px; }
     
     .answers{
-    columns: #000000;;
     display: block;
     font-size: 1rem bold;
-    border: 5rem rgba(255, 255, 255, 0.137)
+    border: 5rem rgba(255, 255, 255, 0.137);
+    font-weight: bolder;
+    
+    
     }
     label{
         font-size: 1rem;
         margin-bottom: 2rem;
         margin-left: 10%;
-        line-break: auto;
+        
+        
         
     }
 
     .container{
         justify-content: center;
+    }
+    .radio {
+
+        margin-left: 10%;
+        display: inline-block;
+    }
+    .questions{
+        margin-left: 10%;
+        font-weight: bolder;
     }

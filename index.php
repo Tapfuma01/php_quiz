@@ -98,7 +98,7 @@
     $Questions = array(
         
       1 => array(
-            'Question' => '1.Which among the following is known as “Sairandhri Vanam”?',
+            'Question' => '1.  Which among the following is known as “Sairandhri Vanam”?',
            
             'Answers' => array(
                 'A' => 'Silent Valley National Park',
@@ -120,7 +120,7 @@
             'CorrectAnswer' => 'C'
 		),
 		3 => array(
-            'Question' => '3.The Machia Biological Park is located in which state?',
+            'Question' => '3. The Machia Biological Park is located in which state?',
             'Answers' => array(
                 'A' => 'Rajastan',
                 'B' => 'Sikkim',
@@ -130,7 +130,7 @@
             'CorrectAnswer' => 'C'
 		),
 		4 => array(
-            'Question' => '4.What is the name of a young lion?',
+            'Question' => '4. What is the name of a young lion?',
             'Answers' => array(
                 'A' => 'cub',
                 'B' => 'kitten',
@@ -150,7 +150,7 @@
             'CorrectAnswer' => 'C'
 		),
 		6=> array(
-            'Question' => '6.With reference to the Flexible Mechanisms of Kyoto Protocol, which of the following is / are correct statements? 1.Through Clean Development Mechanism(CDM),any Annex I country can invest in emission reduction projects in any other Annex I country as an alternative to reducing emissions domestically. 2.Through Joint Implementation(JI), countries can meet their domestic emission reduction targets by buying greenhouse gas reduction units from (projects in) non Annex I countries to the Kyoto protocol (mostly developing countries). Select the correct option from the codes given below:' ,
+            'Question' => '6. With reference to the Flexible Mechanisms of Kyoto Protocol, which of the following is / are correct statements? 1.Through Clean Development Mechanism(CDM),any Annex I country can invest in emission reduction projects in any other Annex I country as an alternative to reducing emissions domestically. 2.Through Joint Implementation(JI), countries can meet their domestic emission reduction targets by buying greenhouse gas reduction units from (projects in) non Annex I countries to the Kyoto protocol (mostly developing countries). Select the correct option from the codes given below:' ,
             'Answers' => array(
                 'A' => 'ONLY 1',
                 'B' => 'ONLY 2',
@@ -160,7 +160,7 @@
             'CorrectAnswer' => 'C'
 		),
 		7 => array(
-            'Question' => '7.Which among the following terms of utmost significance in the dynamics of resource management was coined in the ‘Brundtland Commission Report’?',
+            'Question' => '7. Which among the following terms of utmost significance in the dynamics of resource management was coined in the ‘Brundtland Commission Report’?',
             'Answers' => array(
                 'A' => 'Polluter-Pays Principle',
                 'B' => 'Sustainable development',
@@ -170,7 +170,7 @@
             'CorrectAnswer' => 'C'
 		),
 		 8 => array(
-            'Question' => '8.What is the biggest man-made dame in Afica?',
+            'Question' => '8. What is the biggest man-made dame in Afica?',
             'Answers' => array(
                 'A' => 'Kariba Dam',
                 'B' => 'Mazowe Dam',
@@ -180,7 +180,7 @@
             'CorrectAnswer' => 'C'
 		),
 		9 => array(
-            'Question' => '9.With which of the following, the Agenda 21’ of Rio Summit, 1992 is related to? ',
+            'Question' => '9. With which of the following, the Agenda 21’ of Rio Summit, 1992 is related to? ',
             'Answers' => array(
                 'A' => 'Sustainable development',
                 'B' => 'Combating the consequences of population explosion.',
@@ -210,7 +210,7 @@
             'CorrectAnswer' => 'C'
 		),
 		12 => array(
-            'Question' => '12.Full form of CTBT is; ',
+            'Question' => '12.  Full form of CTBT is; ',
             'Answers' => array(
                 'A' => 'Comprehensive Test Ban Treaty.',
                 'B' => 'Comprehensive Test Bank Trust.',
@@ -220,7 +220,7 @@
             'CorrectAnswer' => 'C'
 		),
 		13 => array(
-            'Question' => '13.Full form of BOD is;',
+            'Question' => '13.  Full form of BOD is;',
             'Answers' => array(
                 'A' => 'Bactorial Oxygen Demand.',
                 'B' => 'Biological Oxygen Demand.',
@@ -250,7 +250,7 @@
             'CorrectAnswer' => 'C'
 		),
 		16 => array(
-            'Question' => '16.Which among the following country is considered to have the world’s first sustainable bio-fuels economy? ',
+            'Question' => '16.  Which among the following country is considered to have the world’s first sustainable bio-fuels economy? ',
             'Answers' => array(
                 'A' => 'India',
                 'B' => 'Brazil',
@@ -261,7 +261,7 @@
             'CorrectAnswer' => 'C'
 		),
 		17 => array(
-            'Question' => '17.The use of microorganism metabolism to remove pollutants such as oil spills in the water bodies is known as :',
+            'Question' => '17. The use of microorganism metabolism to remove pollutants such as oil spills in the water bodies is known as :',
             'Answers' => array(
                 'A' => 'Biomagnification',
                 'B' => 'Bioremediation',
@@ -281,7 +281,7 @@
             'CorrectAnswer' => 'C'
 		),
 		19 => array(
-            'Question' => '19.The Siberian Crane, an endangered migratory bird is a regular visitor of which of the following national park/bird sanctuaries: ',
+            'Question' => '19. The Siberian Crane, an endangered migratory bird is a regular visitor of which of the following national park/bird sanctuaries: ',
             'Answers' => array(
                 'A' => 'Ranganathittu bird sanctuary',
                 'B' => ' Keoladeo national park',
@@ -292,7 +292,7 @@
             'CorrectAnswer' => 'C'
 		),
 		20 => array(
-            'Question' => '20.Under the Motor Vehicles Act, the noise range of horns has been fixed at? ',
+            'Question' => '20.  Under the Motor Vehicles Act, the noise range of horns has been fixed at? ',
             'Answers' => array(
                 'A' => '93-112 dB',
                 'B' => '56-77 dB',
@@ -339,14 +339,15 @@
         <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post" id="quiz">
         <?php foreach ($Questions as $QuestionNo => $Value){ ?>
 
-            <h4><?php echo $Value['Question']; ?></h4>
+            <h4 class=questions><?php echo $Value['Question']; ?></h4>
             <?php 
                 foreach ($Value['Answers'] as $Letter => $Answer){ 
                 $Label = 'question-'.$QuestionNo.'-answers-'.$Letter;
             ?>
-            
+            <div class="radio">
                 <input type="radio" name="answers[<?php echo $QuestionNo; ?>]" id="<?php echo $Label; ?>" value="<?php echo $Letter; ?>" />
                 
+            </div>
                 <label class="answers" for="<?php echo $Label; ?>"><?php echo $Letter; ?>) <?php echo $Answer; ?> </label>
             <?php } ?>
 
