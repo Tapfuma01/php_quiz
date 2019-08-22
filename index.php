@@ -349,7 +349,7 @@
                 'C' => '51-75 dB',
                 'D' => '97-118 dB'
             ),
-            'CorrectAnswer' => 'C'
+            'CorrectAnswer' => 'B'
         )
     );
 
