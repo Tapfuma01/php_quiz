@@ -1,7 +1,7 @@
 body{
     height: 100%;
     background: url(https://picjumbo.com/wp-content/uploads/white-eco-fur-pattern-background_free_stock_photos_picjumbo_DSC06787-2210x1473.jpg) ;
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
     background-attachment: fixed;
     background-position: center; 
     background-size: 100% auto;
