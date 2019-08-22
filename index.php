@@ -349,25 +349,25 @@
                 'C' => '51-75 dB',
                 'D' => '97-118 dB'
             ),
-            'CorrectAnswer' => 'B'
+            'CorrectAnswer' => 'D'
         )
     );
 
     if (isset($_POST['answers'])){
-        $answers = $_POST['answers']; // Get submitted answers.
+        $Answers = $_POST['answers']; // Get submitted answers.
 
         // Now this is fun, automated question checking! ;)
 
-        foreach ($questions as $questionNo => $value){
+        foreach ($Questions as $QuestionNo => $Value){
             // Echo the question
             echo $Value['Question'].'<br />';
 
-            if ($answers[$questionNo] != $value['CorrectAnswer']){
-                 echo 'You answered: <span style="color: red;">'.$value['Answers'][$answers[$questionNo]].'</span><br>'; // Replace style with a class
-                 echo 'Correct answer: <span style="color: green;">'.$value['Answers'][$value['CorrectAnswer']].'</span>';
+            if ($Answers[$QuestionNo] != $Value['CorrectAnswer']){
+                 echo 'You answered: <span style="color: red;">'.$Value['Answers'][$Answers[$QuestionNo]].'</span><br>'; // Replace style with a class
+                 echo 'Correct answer: <span style="color: green;">'.$Value['Answers'][$Value['CorrectAnswer']].'</span>';
             } else {
-                echo 'Correct answer: <span style="color: green;">'.$value['Answers'][$answers[$auestionNo]].'</span><br>'; // Replace style with a class
-                echo 'You are correct: <span style="color: green;">'.$value['Answers'][$answers[$auestionNo]].'</span>'; $counter++;
+                echo 'Correct answer: <span style="color: green;">'.$Value['Answers'][$Answers[$QuestionNo]].'</span><br>'; // Replace style with a class
+                echo 'You are correct: <span style="color: green;">'.$Value['Answers'][$Answers[$QuestionNo]].'</span>'; $counter++;
 
             }
 
