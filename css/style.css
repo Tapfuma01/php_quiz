@@ -1,5 +1,14 @@
+body{
+    height: 100%;
+    background: url(https://images.pexels.com/photos/1437587/pexels-photo-1437587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: 100% auto;;
+    
+}
 .intro-2 {
-    background: url(https://images.pexels.com/photos/2275453/pexels-photo-2275453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)no-repeat center center;
+    background: url(https://images.pexels.com/photos/2669157/pexels-photo-2669157.jpeg?cs=srgb&dl=blade-bright-close-up-2669157.jpg&fm=jpg)no-repeat center center;
     background-size: cover;
 }
 .view {
@@ -9,14 +18,15 @@
     z-index: 1;
 }
 html,
-body,
 header,
 .view {
     height: 100%;
    
+   
   
 
 }
+
 .heading{
     text-align: center;
     color: #ffffff;
@@ -55,28 +65,26 @@ p {
     font-size: 1rem bold;
     border: 5rem rgba(255, 255, 255, 0.137);
     font-weight: bolder;
-    margin-top: -33px;
-    background-color:#f3f3f3;
+    margin-top: -33px; 
     padding: 10px;
+    margin-left: 2%;
    
     }
-    label{
-        margin-left: 12%;
-        margin-right: 12%;   
-    }
+
 
     .container{
-        justify-content: center;
+        width: 970px;
     }
     .radio {
-
-        margin-left: 10%;
-        display: inline-block;
+     display: inline-block;
     }
     .questions{
-        margin-left: 10%;
-        margin-right: 10%;
-        font-weight: bolder;
-        font-size: 1.4rem'
+        font-weight: bold;
+        font-size: 1.4rem;
+        color: black;
+      
        
+    }
+    button{
+        text-align: center;
     }

@@ -92,7 +92,7 @@
     <br/>
     <br/>
     <br/>
-  
+  <div>
     <?php 
 
     $Questions = array(
@@ -335,7 +335,7 @@
                 }                           echo $results;
     } else {  
     ?>
-    </div>
+      <div class=container>
         <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post" id="quiz">
         <?php foreach ($Questions as $QuestionNo => $Value){ ?>
 
@@ -347,7 +347,6 @@
             <div class="radio">
                 <input type="radio" name="answers[<?php echo $QuestionNo; ?>]" id="<?php echo $Label; ?>" value="<?php echo $Letter; ?>" />
                 
-            </div>
                 <label class="answers" for="<?php echo $Label; ?>"><?php echo $Letter; ?>) <?php echo $Answer; ?> </label>
             <?php } ?>
 
@@ -357,18 +356,20 @@
         </div>
         
         </form>
+        </div>
     <?php 
     }
     ?>
 </form>
 </body>
+ <section>
     <!--Carousel Wrapper-->
 <div id="multi-item-example" class="carousel slide carousel-multi-item carousel-multi-item-2" data-ride="carousel">
 
 <!--Controls-->
 <div class="controls-top">
-  <a class="black-text" href="#multi-item-example" data-slide="prev"><i class="fas fa-angle-left fa-3x pr-3"></i></a>
-  <a class="black-text" href="#multi-item-example" data-slide="next"><i class="fas fa-angle-right fa-3x pl-3"></i></a>
+  <a class="black-text small" href="#multi-item-example" data-slide="prev"><i class="fas fa-angle-left fa-3x pr-3"></i></a>
+  <a class="black-text small" href="#multi-item-example" data-slide="next"><i class="fas fa-angle-right fa-3x pl-3"></i></a>
 </div>
 <!--/.Controls-->
 
@@ -493,4 +494,5 @@
 
 </footer>
 <!-- Footer -->
+</section>
 </html>
