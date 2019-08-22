@@ -31,12 +31,12 @@ header,
 .heading{
     text-align: center;
     color: #ffffff;
-    font-size: 6rem; 
+    font-size: 3.75rem; 
     position: relative;
 
 }
 h2 {
-    font-size: 4rem;
+    font-size: 8r;
     font-weight: bold;
     
     
@@ -52,7 +52,7 @@ p {
     width: 970px;
     height:520px ;
 }
-@media (min-width: 768px) {
+@media (min-width: 100px) {
     .carousel-multi-item-2 .col-md-3 {
     float: left;
     width: 25%;
@@ -60,7 +60,7 @@ p {
     
     .carousel-multi-item-2 .card img {
     border-radius: 2px; }
-    
+   
     .answers{
     display: block;
     font-size: 1rem bold;

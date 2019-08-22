@@ -142,7 +142,7 @@
     <br/>
     <br/>
     <br/>
-  <div>
+  <div class="container">
     <?php 
 
     $Questions = array(
@@ -352,12 +352,12 @@
             'CorrectAnswer' => 'D'
         )
     );
-
+   
     if (isset($_POST['answers'])){
         $Answers = $_POST['answers']; // Get submitted answers.
 
         // Now this is fun, automated question checking! ;)
-
+      
         foreach ($Questions as $QuestionNo => $Value){
             // Echo the question
             echo $Value['Question'].'<br />';
@@ -380,11 +380,13 @@
                                     }
                                     else 
                                     { 
-                                    $results = "<h2>YOU SCORED<h2>: $counter/20"; 
+                                    $results = "<h2>YOU SCORED:</h2>
+                                    <h2>$counter/20<h2> "; 
                                     }
                 }                           echo $results;
     } else {  
     ?>
+    </div>
       <div class=container>
         <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post" id="quiz">
         <?php foreach ($Questions as $QuestionNo => $Value){ ?>
