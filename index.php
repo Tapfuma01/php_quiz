@@ -328,7 +328,7 @@
                 'C' => ' Madhya Pradesh',
                 'D' => ' West Bengal'
             ),
-            'CorrectAnswer' => 'C'
+            'CorrectAnswer' => 'B'
 		),
 		19 => array(
             'Question' => '19. The Siberian Crane, an endangered migratory bird is a regular visitor of which of the following national park/bird sanctuaries: ',
