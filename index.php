@@ -62,7 +62,8 @@
             <div class="container">
                 <div class="white-text text-center wow fadeInUp">
                     <h1 class="heading">Enviroment QUIZ </h1>
-                    <div class="spinner-grow text-primary" role="status">
+   <!--LOADING COLORS-->
+<div class="spinner-grow text-primary" role="status">
   <span class="sr-only">Loading...</span>
 </div>
 <div class="spinner-grow text-secondary" role="status">
@@ -87,7 +88,9 @@
   <span class="sr-only">Loading...</span>
 </div>
                     <br>
-                    <div class="spinner-grow text-primary" role="status">
+                    <h5>SaVe ThE WoRLD</h5>
+ <!--LOADING COLORS-->
+<div class="spinner-grow text-primary" role="status">
   <span class="sr-only">Loading...</span>
 </div>
 <div class="spinner-grow text-secondary" role="status">
@@ -111,7 +114,6 @@
 <div class="spinner-grow text-dark" role="status">
   <span class="sr-only">Loading...</span>
 </div>
-                    <h5>SaVe ThE WoRLD</h5>
                 </div>
             </div>
         </div>
