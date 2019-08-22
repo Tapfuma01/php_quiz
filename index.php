@@ -366,13 +366,6 @@
     <!--Carousel Wrapper-->
 <div id="multi-item-example" class="carousel slide carousel-multi-item carousel-multi-item-2" data-ride="carousel">
 
-<!--Controls-->
-<div class="controls-top">
-  <a class="black-text small" href="#multi-item-example" data-slide="prev"><i class="fas fa-angle-left fa-3x pr-3"></i></a>
-  <a class="black-text small" href="#multi-item-example" data-slide="next"><i class="fas fa-angle-right fa-3x pl-3"></i></a>
-</div>
-<!--/.Controls-->
-
 <!--Slides-->
 <div class="carousel-inner" role="listbox">
 
