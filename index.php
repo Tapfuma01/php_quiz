@@ -55,16 +55,62 @@
         </div>
     </div>
 </nav>
-
+  
 <div class="view intro-2">
     <div class="full-bg-img">
         <div class="mask rgba-black-strong flex-center">
             <div class="container">
                 <div class="white-text text-center wow fadeInUp">
                     <h1 class="heading">Enviroment QUIZ </h1>
+                    <div class="spinner-grow text-primary" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-secondary" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-success" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-danger" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-warning" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-info" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-light" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-dark" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
                     <br>
-                    <br>
-                  
+                    <div class="spinner-grow text-primary" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-secondary" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-success" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-danger" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-warning" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-info" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-light" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+<div class="spinner-grow text-dark" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
                     <h5>SaVe ThE WoRLD</h5>
                 </div>
             </div>
@@ -73,6 +119,7 @@
 </div>
 
 </header>
+
 <!--Main Navigation-->
 
 <!--Main Layout-->
@@ -476,6 +523,7 @@
 <!--/.Slides-->
 
 </div>
+
 <!--/.Carousel Wrapper-->
 <!-- Footer -->
 <footer class="page-footer font-small elegant-color-dark">
