@@ -1,14 +1,15 @@
 body{
     height: 100%;
-    background: url(https://images.pexels.com/photos/1437587/pexels-photo-1437587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) ;
+    background: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) ;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
-    background-size: 100% auto;;
+    background-size: 100% auto;
+   
     
 }
 .intro-2 {
-    background: url(https://images.pexels.com/photos/2669157/pexels-photo-2669157.jpeg?cs=srgb&dl=blade-bright-close-up-2669157.jpg&fm=jpg)no-repeat center center;
+    background: url(https://images.pexels.com/photos/255441/pexels-photo-255441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)no-repeat center center;
     background-size: cover;
 }
 .view {
